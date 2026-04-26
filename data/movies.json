@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "authorName": "Christopher Nolan",
+    "yearPublished": 2010,
+    "copiesSold": "836M +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "description": "A mind-bending thriller about dreams within dreams.",
+    "detailedDescription": "A skilled thief who steals corporate secrets through dream-sharing technology is given a chance to erase his past crimes by planting an idea into a target's subconscious.",
+    "keyWords": ["sci-fi", "thriller", "dreams", "action"]
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "authorName": "Christopher Nolan",
+    "yearPublished": 2008,
+    "copiesSold": "1B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "Batman faces his greatest enemy, the Joker.",
+    "detailedDescription": "Batman sets out to dismantle organized crime in Gotham but faces chaos brought by the Joker, testing his moral limits.",
+    "keyWords": ["action", "hero", "crime", "dc"]
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "authorName": "Christopher Nolan",
+    "yearPublished": 2014,
+    "copiesSold": "700M +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "description": "A journey through space and time to save humanity.",
+    "detailedDescription": "A group of astronauts travel through a wormhole in search of a new home for humanity as Earth becomes uninhabitable.",
+    "keyWords": ["space", "sci-fi", "time", "drama"]
+  },
+  {
+    "id": 4,
+    "title": "Titanic",
+    "authorName": "James Cameron",
+    "yearPublished": 1997,
+    "copiesSold": "2.2B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "description": "A tragic love story on the ill-fated ship.",
+    "detailedDescription": "A young couple from different social classes fall in love aboard the Titanic, which later sinks in a historic disaster.",
+    "keyWords": ["romance", "drama", "history"]
+  },
+  {
+    "id": 5,
+    "title": "Avatar",
+    "authorName": "James Cameron",
+    "yearPublished": 2009,
+    "copiesSold": "2.9B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+    "description": "A visually stunning sci-fi adventure.",
+    "detailedDescription": "A paraplegic Marine is sent to Pandora and becomes part of a conflict between humans and the native Na’vi people.",
+    "keyWords": ["sci-fi", "fantasy", "action"]
+  },
+  {
+    "id": 6,
+    "title": "The Avengers",
+    "authorName": "Joss Whedon",
+    "yearPublished": 2012,
+    "copiesSold": "1.5B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "description": "Earth's mightiest heroes unite.",
+    "detailedDescription": "Iron Man, Captain America, Thor, and Hulk team up to stop Loki and save Earth from invasion.",
+    "keyWords": ["marvel", "action", "superhero"]
+  },
+  {
+    "id": 7,
+    "title": "Frozen",
+    "authorName": "Chris Buck",
+    "yearPublished": 2013,
+    "copiesSold": "1.2B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+    "description": "A magical story of sisterhood and love.",
+    "detailedDescription": "A princess sets out to find her estranged sister whose icy powers have trapped their kingdom in eternal winter.",
+    "keyWords": ["animation", "family", "fantasy"]
+  },
+  {
+    "id": 8,
+    "title": "Joker",
+    "authorName": "Todd Phillips",
+    "yearPublished": 2019,
+    "copiesSold": "1B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "description": "The origin story of Gotham’s villain.",
+    "detailedDescription": "A mentally troubled comedian descends into madness and becomes the infamous Joker.",
+    "keyWords": ["drama", "crime", "psychological"]
+  },
+  {
+    "id": 9,
+    "title": "Spider-Man: No Way Home",
+    "authorName": "Jon Watts",
+    "yearPublished": 2021,
+    "copiesSold": "1.9B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "description": "Multiverse chaos unleashed.",
+    "detailedDescription": "Spider-Man seeks help from Doctor Strange, but things go wrong, opening the multiverse.",
+    "keyWords": ["marvel", "action", "multiverse"]
+  },
+  {
+    "id": 10,
+    "title": "Black Panther",
+    "authorName": "Ryan Coogler",
+    "yearPublished": 2018,
+    "copiesSold": "1.3B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "description": "A king rises to protect Wakanda.",
+    "detailedDescription": "T’Challa returns home to Wakanda to take his rightful place as king and protect his nation.",
+    "keyWords": ["marvel", "action", "africa"]
+  },
+  {
+    "id": 11,
+    "title": "The Lion King",
+    "authorName": "Jon Favreau",
+    "yearPublished": 2019,
+    "copiesSold": "1.6B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
+    "description": "A young lion’s journey to become king.",
+    "detailedDescription": "Simba must embrace his destiny after the death of his father.",
+    "keyWords": ["animation", "family", "drama"]
+  },
+  {
+    "id": 12,
+    "title": "Avengers: Endgame",
+    "authorName": "Anthony Russo",
+    "yearPublished": 2019,
+    "copiesSold": "2.7B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "description": "The epic conclusion of the Avengers saga.",
+    "detailedDescription": "The Avengers assemble once more to undo Thanos’ actions and restore balance.",
+    "keyWords": ["marvel", "action", "finale"]
+  },
+  {
+    "id": 13,
+    "title": "Doctor Strange",
+    "authorName": "Scott Derrickson",
+    "yearPublished": 2016,
+    "copiesSold": "677M +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+    "description": "A surgeon becomes a master of mystic arts.",
+    "detailedDescription": "After an accident, a brilliant surgeon learns the secrets of the mystic arts.",
+    "keyWords": ["marvel", "magic", "fantasy"]
+  },
+  {
+    "id": 14,
+    "title": "Deadpool",
+    "authorName": "Tim Miller",
+    "yearPublished": 2016,
+    "copiesSold": "783M +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/inVq3FRqcYIRl2la8iZikYYxFNR.jpg",
+    "description": "A sarcastic anti-hero seeks revenge.",
+    "detailedDescription": "A former soldier turned mercenary gains powers and hunts down the man who ruined his life.",
+    "keyWords": ["marvel", "comedy", "action"]
+  },
+  {
+    "id": 15,
+    "title": "Fast & Furious 7",
+    "authorName": "James Wan",
+    "yearPublished": 2015,
+    "copiesSold": "1.5B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/dCgm7efXDmiABSdWDHBDBx2jwmn.jpg",
+    "description": "High-speed action and family bonds.",
+    "detailedDescription": "Dom and his crew face a deadly assassin seeking revenge.",
+    "keyWords": ["cars", "action", "family"]
+  },
+  {
+    "id": 16,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "authorName": "Chris Columbus",
+    "yearPublished": 2001,
+    "copiesSold": "1B +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "description": "A boy discovers he is a wizard.",
+    "detailedDescription": "Harry Potter enters Hogwarts and begins his magical journey.",
+    "keyWords": ["fantasy", "magic", "adventure"]
+  },
+  {
+    "id": 17,
+    "title": "The Matrix",
+    "authorName": "Wachowski Sisters",
+    "yearPublished": 1999,
+    "copiesSold": "463M +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+    "description": "Reality is not what it seems.",
+    "detailedDescription": "A hacker discovers the truth about reality and his role in the war against its controllers.",
+    "keyWords": ["sci-fi", "action", "philosophy"]
+  },
+  {
+    "id": 18,
+    "title": "Gladiator",
+    "authorName": "Ridley Scott",
+    "yearPublished": 2000,
+    "copiesSold": "460M +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "description": "A Roman general seeks revenge.",
+    "detailedDescription": "A betrayed general becomes a gladiator and seeks justice.",
+    "keyWords": ["history", "action", "drama"]
+  },
+  {
+    "id": 19,
+    "title": "The Shawshank Redemption",
+    "authorName": "Frank Darabont",
+    "yearPublished": 1994,
+    "copiesSold": "58M +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "description": "Hope can set you free.",
+    "detailedDescription": "Two imprisoned men bond over years, finding redemption through hope.",
+    "keyWords": ["drama", "prison", "hope"]
+  },
+  {
+    "id": 20,
+    "title": "Forrest Gump",
+    "authorName": "Robert Zemeckis",
+    "yearPublished": 1994,
+    "copiesSold": "678M +",
+    "bookCoverImageLink": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "description": "Life is like a box of chocolates.",
+    "detailedDescription": "The life journey of Forrest Gump, a simple man witnessing historical events.",
+    "keyWords": ["drama", "life", "history"]
+  }
+]
